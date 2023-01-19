@@ -2339,9 +2339,9 @@ atom-slick@^2, atom-slick@^2.0.0:
   resolved "https://registry.yarnpkg.com/atom-slick/-/atom-slick-2.0.0.tgz#ff0dbe15be2c4eda268b9d30d76e2517e0b7d3ca"
   integrity sha512-yKl/4ZHeP3v6gtncnX6pAPFNv3gQNNYlXMk1QYP5gYB6xq2xqkFXbpwQo3IixGUZMf+DHilAmHOrS21QKLLi9g==
 
-"autocomplete-atom-api@https://codeload.github.com/atom/autocomplete-atom-api/legacy.tar.gz/refs/tags/v0.10.7":
+"autocomplete-atom-api@https://github.com/atom/autocomplete-atom-api#v0.10.7":
   version "0.10.7"
-  resolved "https://codeload.github.com/atom/autocomplete-atom-api/legacy.tar.gz/refs/tags/v0.10.7#c9d51fa721d543ccfc1b2189101155e81db6b97d"
+  resolved "https://github.com/atom/autocomplete-atom-api#f772a3fa84ea8bd05aaaf5f6d9b0c3a2adb12bd0"
 
 "autocomplete-css@file:packages/autocomplete-css":
   version "0.17.5"
@@ -2349,9 +2349,9 @@ atom-slick@^2, atom-slick@^2.0.0:
 "autocomplete-html@file:packages/autocomplete-html":
   version "0.8.9"
 
-"autocomplete-plus@https://codeload.github.com/atom/autocomplete-plus/legacy.tar.gz/refs/tags/v2.42.4":
+"autocomplete-plus@https://github.com/atom/autocomplete-plus#v2.42.4":
   version "2.42.4"
-  resolved "https://codeload.github.com/atom/autocomplete-plus/legacy.tar.gz/refs/tags/v2.42.4#dcfe8ea2b844d27f3d30c7cae4621638ca13e0a8"
+  resolved "https://github.com/atom/autocomplete-plus#3bdb3f2b4ade6d803196ccd28b17be12e5fee588"
   dependencies:
     atom-slick "^2.0.0"
     dompurify "^2.0.7"
@@ -2372,9 +2372,9 @@ atom-slick@^2, atom-slick@^2.0.0:
   dependencies:
     underscore-plus "^1.7.0"
 
-"autosave@https://codeload.github.com/atom/autosave/legacy.tar.gz/refs/tags/v0.24.6":
+"autosave@https://github.com/atom/autosave#v0.24.6":
   version "0.24.6"
-  resolved "https://codeload.github.com/atom/autosave/legacy.tar.gz/refs/tags/v0.24.6#bbd25c3364cfa5b3c73f9d4d08da93aaac339020"
+  resolved "https://github.com/atom/autosave#129cbb9285351966a0f1fef45df665a20e73707b"
   dependencies:
     fs-plus "^3.0.0"
 
@@ -2652,9 +2652,9 @@ braces@~3.0.2:
   dependencies:
     fill-range "^7.0.1"
 
-"bracket-matcher@https://codeload.github.com/atom/bracket-matcher/legacy.tar.gz/refs/tags/v0.92.0":
+"bracket-matcher@https://github.com/atom/bracket-matcher#v0.92.0":
   version "0.92.0"
-  resolved "https://codeload.github.com/atom/bracket-matcher/legacy.tar.gz/refs/tags/v0.92.0#fe75cb7dd3f286d9f20b1d1edd7fec085730a866"
+  resolved "https://github.com/atom/bracket-matcher#d07c17c6a00782665027ac49b8b41081ad87ee73"
   dependencies:
     first-mate "^7.4.1"
     underscore-plus "1.x"
@@ -4820,9 +4820,9 @@ fuzzaldrin@^2.0, fuzzaldrin@^2.1, fuzzaldrin@^2.1.0:
   resolved "https://registry.yarnpkg.com/fuzzaldrin/-/fuzzaldrin-2.1.0.tgz#90204c3e2fdaa6941bb28d16645d418063a90e9b"
   integrity sha512-zgllBYwfHR5P3CncJiGbGVPpa3iFYW1yuPaIv8DiTVRrcg5/6uETNL5zvIoKflG1aifXVUZTlIroDehw4WygGA==
 
-"fuzzy-finder@https://codeload.github.com/atom/fuzzy-finder/legacy.tar.gz/refs/tags/v1.14.3":
+"fuzzy-finder@https://github.com/atom/fuzzy-finder#v1.14.3":
   version "1.14.3"
-  resolved "https://codeload.github.com/atom/fuzzy-finder/legacy.tar.gz/refs/tags/v1.14.3#7cd40191b8930bb49039a860ab868f554f90f41d"
+  resolved "https://github.com/atom/fuzzy-finder#470978ca231ce17ab4ca664661b0b748c58d3230"
   dependencies:
     "@atom/fuzzy-native" "^1.1.2"
     async "0.2.6"
@@ -6134,9 +6134,9 @@ key-path-helpers@^0.4.0:
   resolved "https://registry.yarnpkg.com/key-path-helpers/-/key-path-helpers-0.4.0.tgz#e87f6a159144adf2692e46f2a4641ce269c09119"
   integrity sha512-WGl1FG6zjyXCU6YrOVrvanyN3iiLFPLr/UmZ/jGiEOd7CXQV83/Ng5aLGK/Erehtr1nxU8dOwnRjseQDGElMQw==
 
-"keybinding-resolver@https://codeload.github.com/atom/keybinding-resolver/legacy.tar.gz/refs/tags/v0.39.1":
+"keybinding-resolver@https://github.com/atom/keybinding-resolver#v0.39.1":
   version "0.39.1"
-  resolved "https://codeload.github.com/atom/keybinding-resolver/legacy.tar.gz/refs/tags/v0.39.1#a1c08beb144cfca145bf19fe0830b2e82514d4cb"
+  resolved "https://github.com/atom/keybinding-resolver#c65b0fb34547e2b76ebf385df91807119d496ee7"
   dependencies:
     etch "0.9.0"
     fs-plus "^3.0.0"
@@ -6673,9 +6673,9 @@ markdown-it@^12.3.2:
     mdurl "^1.0.1"
     uc.micro "^1.0.5"
 
-"markdown-preview@https://codeload.github.com/atom/markdown-preview/legacy.tar.gz/refs/tags/v0.160.2":
+"markdown-preview@https://github.com/atom/markdown-preview#v0.160.2":
   version "0.160.2"
-  resolved "https://codeload.github.com/atom/markdown-preview/legacy.tar.gz/refs/tags/v0.160.2#6d6f4075ea5b5ec5a683104b12f2e91ad33fa392"
+  resolved "https://github.com/atom/markdown-preview#c6df136f67f498223e0ab7f8172b716c273f7705"
   dependencies:
     cheerio "^1.0.0-rc.3"
     dompurify "^1.0.2"
@@ -7251,9 +7251,9 @@ normalize-url@^6.0.1:
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-6.1.0.tgz#40d0885b535deffe3f3147bec877d05fe4c5668a"
   integrity sha512-DlL+XwOy3NxAQ8xuC0okPgK46iuVNAK01YN7RueYBqqFeGsBjV9XmCAzAdgt+667bCl5kPh9EqKKDwnaPG1I7A==
 
-"notifications@https://codeload.github.com/atom/notifications/legacy.tar.gz/refs/tags/v0.72.1":
+"notifications@https://github.com/atom/notifications#v0.72.1":
   version "0.72.1"
-  resolved "https://codeload.github.com/atom/notifications/legacy.tar.gz/refs/tags/v0.72.1#4e5a155624b1189bdcc3416a9f736ed1e030b56e"
+  resolved "https://github.com/atom/notifications#47da1756c8ca5ea4805eabafcb90eba85fa26108"
   dependencies:
     dompurify "^1.0.3"
     fs-plus "^3.0.0"
@@ -8698,9 +8698,9 @@ smart-buffer@^4.0.2, smart-buffer@^4.2.0:
   resolved "https://registry.yarnpkg.com/smart-buffer/-/smart-buffer-4.2.0.tgz#6e1d71fa4f18c05f7d0ff216dd16a481d0e8d9ae"
   integrity sha512-94hK0Hh8rPqQl2xXc3HsaBoOXKV20MToPkcXvwbISWLEs+64sBq5kFgn2kJDHb1Pry9yrP0dxrCI9RRci7RXKg==
 
-"snippets@https://codeload.github.com/pulsar-edit/snippets/legacy.tar.gz/refs/tags/v1.6.1":
+"snippets@https://github.com/pulsar-edit/snippets#v1.6.1":
   version "1.6.1"
-  resolved "https://codeload.github.com/pulsar-edit/snippets/legacy.tar.gz/refs/tags/v1.6.1#dc5e28086e77beeec63b35b3d52f6b32dc5994ab"
+  resolved "https://github.com/pulsar-edit/snippets#4fc60bd5f437544aa16076b7d530afceea002680"
   dependencies:
     async "~0.2.6"
     atom-select-list "^0.7.0"
@@ -8808,9 +8808,9 @@ spdx-license-ids@^3.0.0:
   resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-3.0.12.tgz#69077835abe2710b65f03969898b6637b505a779"
   integrity sha512-rr+VVSXtRhO4OHbXUiAF7xW3Bo9DuuF6C5jH+q/x15j2jniycgKbxU09Hr0WqlSLUs4i4ltHGXqTe7VHclYWyA==
 
-"spell-check@https://codeload.github.com/atom/spell-check/legacy.tar.gz/refs/tags/v0.77.1":
+"spell-check@https://github.com/atom/spell-check#v0.77.1":
   version "0.77.1"
-  resolved "https://codeload.github.com/atom/spell-check/legacy.tar.gz/refs/tags/v0.77.1#231d2ed87c0333a1c1d652301f58062a4bd689b9"
+  resolved "https://github.com/atom/spell-check#df4dfebdf55c85a3f90817ae0a1cf2e4c90e5842"
   dependencies:
     atom-pathspec "^0.0.0"
     atom-select-list "^0.7.0"
@@ -9050,9 +9050,9 @@ strip-json-comments@^3.1.0, strip-json-comments@^3.1.1:
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-3.1.1.tgz#31f1281b3832630434831c310c01cccda8cbe006"
   integrity sha512-6fPc+R4ihwqP6N/aIv2f1gMH8lOVtWQHoqC4yK6oSDVVocumAsfCqjkXnqiYMhmMwS/mEHLp7Vehlt3ql6lEig==
 
-"styleguide@https://codeload.github.com/atom/styleguide/legacy.tar.gz/refs/tags/v0.49.12":
+"styleguide@https://github.com/atom/styleguide#v0.49.12":
   version "0.49.12"
-  resolved "https://codeload.github.com/atom/styleguide/legacy.tar.gz/refs/tags/v0.49.12#d2c09228e5da99017034227b8bc571fea56bc63b"
+  resolved "https://github.com/atom/styleguide#aa4f682f402f7bb754e8cb317ea651c2ca2f78b1"
   dependencies:
     atom-select-list "^0.7.0"
     dedent "^0.7.0"
@@ -9108,9 +9108,9 @@ sylvester@^0.0.12:
   resolved "https://registry.yarnpkg.com/sylvester/-/sylvester-0.0.12.tgz#5a884415cd2d002c57e7a3aac99462a75ce9fdb4"
   integrity sha512-SzRP5LQ6Ts2G5NyAa/jg16s8e3R7rfdFjizy1zeoecYWw+nGL+YA1xZvW/+iJmidBGSdLkuvdwTYEyJEb+EiUw==
 
-"symbols-view@https://codeload.github.com/atom/symbols-view/legacy.tar.gz/refs/tags/v0.118.4":
+"symbols-view@https://github.com/atom/symbols-view#v0.118.4":
   version "0.118.4"
-  resolved "https://codeload.github.com/atom/symbols-view/legacy.tar.gz/refs/tags/v0.118.4#cd1b515d4a3d720402b85301ea8e4d6c8815aaf2"
+  resolved "https://github.com/atom/symbols-view#36c4dd4c5a89adcfe8cbe01a80548147378c93c6"
   dependencies:
     async "^0.2.6"
     atom-select-list "^0.7.0"
@@ -9318,9 +9318,9 @@ through@2, through@2.3.x, through@^2.3.8, through@~2.3, through@~2.3.1:
   resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==
 
-"timecop@https://codeload.github.com/atom/timecop/legacy.tar.gz/refs/tags/v0.36.2":
+"timecop@https://github.com/atom/timecop#v0.36.2":
   version "0.36.2"
-  resolved "https://codeload.github.com/atom/timecop/legacy.tar.gz/refs/tags/v0.36.2#8965f20444701af3b6f86dfa9f144a46e1aaa9d0"
+  resolved "https://github.com/atom/timecop#f7d954391cf3fde794c23dda2748c8cf37d9dec7"
   dependencies:
     dedent "^0.7.0"
     etch "^0.12.6"
@@ -9514,9 +9514,9 @@ tree-sitter@0.20.0:
     nan "^2.14.0"
     prebuild-install "^6.0.1"
 
-"tree-view@https://codeload.github.com/atom/tree-view/legacy.tar.gz/refs/tags/v0.229.1":
+"tree-view@https://github.com/atom/tree-view#v0.229.1":
   version "0.229.1"
-  resolved "https://codeload.github.com/atom/tree-view/legacy.tar.gz/refs/tags/v0.229.1#f95938fe9aefbcdfed186d6285c3b014e435eee8"
+  resolved "https://github.com/atom/tree-view#bc42868def5e13521cedeb8337e40917631969f4"
   dependencies:
     fs-plus "^3.0.0"
     minimatch "~0.3.0"
@@ -10021,9 +10021,9 @@ which@^2.0.1, which@^2.0.2:
   dependencies:
     isexe "^2.0.0"
 
-"whitespace@https://codeload.github.com/atom/whitespace/legacy.tar.gz/refs/tags/v0.37.8":
+"whitespace@https://github.com/atom/whitespace#v0.37.8":
   version "0.37.8"
-  resolved "https://codeload.github.com/atom/whitespace/legacy.tar.gz/refs/tags/v0.37.8#0c0510f8ead296d63a16105024700ec34b2b5d1b"
+  resolved "https://github.com/atom/whitespace#53d5ba9728e1f39ddb78f8a4ecb32b31155f6c25"
 
 wide-align@1.1.3:
   version "1.1.3"
@@ -10112,9 +10112,9 @@ wrap-ansi@^7.0.0:
     string-width "^4.1.0"
     strip-ansi "^6.0.0"
 
-"wrap-guide@https://codeload.github.com/atom/wrap-guide/legacy.tar.gz/refs/tags/v0.41.0":
+"wrap-guide@https://github.com/atom/wrap-guide#v0.41.0":
   version "0.41.0"
-  resolved "https://codeload.github.com/atom/wrap-guide/legacy.tar.gz/refs/tags/v0.41.0#bd23ce8c207d589c742bd324135de81b6eb7ec02"
+  resolved "https://github.com/atom/wrap-guide#6a4f577223ebb520cb1a25ccc50c4ed4973a477a"
 
 wrappy@1:
   version "1.0.2"
