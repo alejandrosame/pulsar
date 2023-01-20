@@ -2341,7 +2341,7 @@ atom-slick@^2, atom-slick@^2.0.0:
 
 "autocomplete-atom-api@https://github.com/atom/autocomplete-atom-api#v0.10.7":
   version "0.10.7"
-  resolved "https://github.com/atom/autocomplete-atom-api#sha1-7KYLsrgMP9c1KgFqGBAkJPgzFJE="
+  resolved "https://github.com/atom/autocomplete-atom-api#sha1-yhJvvXXNSvX03zmgiKQ3aLN63Xs=="
 
 "autocomplete-css@file:packages/autocomplete-css":
   version "0.17.5"
@@ -2351,7 +2351,7 @@ atom-slick@^2, atom-slick@^2.0.0:
 
 "autocomplete-plus@https://github.com/atom/autocomplete-plus#v2.42.4":
   version "2.42.4"
-  resolved "https://github.com/atom/autocomplete-plus#3bdb3f2b4ade6d803196ccd28b17be12e5fee588"
+  resolved "https://github.com/atom/autocomplete-plus#sha1-BqZCUC25qavMpDPyP6l2+TTtocs="
   dependencies:
     atom-slick "^2.0.0"
     dompurify "^2.0.7"
