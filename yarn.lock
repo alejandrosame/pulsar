@@ -4822,7 +4822,7 @@ fuzzaldrin@^2.0, fuzzaldrin@^2.1, fuzzaldrin@^2.1.0:
 
 "fuzzy-finder@https://github.com/atom/fuzzy-finder#v1.14.3":
   version "1.14.3"
-  resolved "https://github.com/atom/fuzzy-finder#470978ca231ce17ab4ca664661b0b748c58d3230"
+  resolved "https://github.com/atom/fuzzy-finder#sha1-XoWFQzr2I8Mf749OkV1OMG1eT5I="
   dependencies:
     "@atom/fuzzy-native" "^1.1.2"
     async "0.2.6"
