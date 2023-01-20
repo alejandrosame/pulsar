@@ -2341,7 +2341,7 @@ atom-slick@^2, atom-slick@^2.0.0:
 
 "autocomplete-atom-api@https://github.com/atom/autocomplete-atom-api#v0.10.7":
   version "0.10.7"
-  resolved "https://github.com/atom/autocomplete-atom-api#c9d51fa721d543ccfc1b2189101155e81db6b97d"
+  resolved "https://github.com/atom/autocomplete-atom-api#sha1-7KYLsrgMP9c1KgFqGBAkJPgzFJE="
 
 "autocomplete-css@file:packages/autocomplete-css":
   version "0.17.5"
